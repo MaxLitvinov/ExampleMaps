@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExampleMaps</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="normal">Normal</string>
+    <string name="satellite">Satellite</string>
+    <string name="hybrid">Hybrid</string>
+</resources>
